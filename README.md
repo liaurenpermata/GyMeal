@@ -11,4 +11,4 @@ A website for buying healthy meal for your diet program
   - pic3.jpg
 
 ## Preview
-![picture alt]( "GyMeal Preview")
+![picture alt](https://github.com/liaurenpermata/GyMeal/blob/main/GyMeal.png "GyMeal Preview")
